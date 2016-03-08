@@ -7,3 +7,6 @@ Converts subtitles to plain text
 
 # Usage
 * PlainSub( txt ) => plain txt string
+
+# Play Ground and Example
+https://jsfiddle.net/leeeqian/o1zpyL0b/8/
