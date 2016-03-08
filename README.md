@@ -9,4 +9,9 @@ Converts subtitles to plain text
 * PlainSub( txt ) => plain txt string
 
 # Play Ground and Example
-https://jsfiddle.net/leeeqian/o1zpyL0b/8/
+JSFiddle:  https://jsfiddle.net/leeeqian/o1zpyL0b/8/
+
+
+
+
+![Alt Text](https://raw.githubusercontent.com/leeeqian/plain_sub/master/example.png)
