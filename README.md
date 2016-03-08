@@ -8,10 +8,8 @@ Converts subtitles to plain text
 # Usage
 * PlainSub( txt ) => plain txt string
 
-# Play Ground and Example
-JSFiddle:  https://jsfiddle.net/leeeqian/o1zpyL0b/8/
+# Play Ground
+https://jsfiddle.net/leeeqian/o1zpyL0b/8/
 
-
-
-
+#Example
 ![Alt Text](https://raw.githubusercontent.com/leeeqian/plain_sub/master/example.png)
