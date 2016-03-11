@@ -11,5 +11,8 @@ Converts subtitles to plain text
 # Play Ground
 https://jsfiddle.net/leeeqian/o1zpyL0b/8/
 
-#Example
+# Example
+Split subtitles into lines with checkboxes, collect all selected notes.
+
+# Screenshot
 ![Alt Text](https://raw.githubusercontent.com/leeeqian/plain_sub/master/example.png)
