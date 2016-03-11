@@ -13,6 +13,7 @@ https://jsfiddle.net/leeeqian/o1zpyL0b/8/
 
 # Example
 Split subtitles into lines with checkboxes, collect all selected notes.
+https://jsfiddle.net/leeeqian/58up0ert/11/
 
 # Screenshot
 ![Alt Text](https://raw.githubusercontent.com/leeeqian/plain_sub/master/example.png)
